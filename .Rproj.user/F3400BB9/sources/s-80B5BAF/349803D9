@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574597399552.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "349803D9",
+    "lastKnownWriteTime" : 1574597674,
+    "last_content_update" : 1574597674192,
+    "path" : "~/Science/Website/IEA/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "30,38",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
